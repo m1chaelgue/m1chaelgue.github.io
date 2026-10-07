@@ -59,7 +59,11 @@
     {
       "name": "ethxn's omnisette server :3",
       "address": "https://omni.ethxn.xyz"
-    }
+    },
+    {
+    "name": "m1chaelgue",
+    "address": "https://github.com/m1chaelgue/anisette-v3-server.git"
+}
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
